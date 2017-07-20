@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-gigya",
+  "version": "1.0.0",
+  "description": "\n        Plugin para uso de Gigya (package by Neosistec)     \n    ",
+  "cordova": {
+    "id": "cordova-plugin-gigya",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC"
+}
